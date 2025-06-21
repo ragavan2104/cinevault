@@ -6,6 +6,8 @@
 
 *Discover, explore, and organize your favorite movies with a beautiful, responsive interface*
 
+🌐 **[Live Demo](https://cinevault-beta.vercel.app/)** | 📱 **Mobile Optimized** | ⚡ **Fast & Responsive**
+
 ---
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -69,6 +71,9 @@ Before you begin, ensure you have the following installed:
    Navigate to [http://localhost:5173](http://localhost:5173)
 
 🎉 **You're all set!** Start exploring movies right away.
+
+### 🌐 Live Demo
+Experience CineVault in action: **[https://cinevault-beta.vercel.app/](https://cinevault-beta.vercel.app/)**
 
 ## ✨ Features
 
@@ -328,13 +333,15 @@ Special thanks to the amazing open-source community and the following projects:
 
 ## 🎬 Ready to Start Your Movie Journey?
 
-**[🚀 Get Started](#-quick-start)** • **[🖼️ View Screenshots](#️-screenshots)** • **[🐛 Report Issues](https://github.com/your-username/cinevault/issues)** • **[⭐ Star on GitHub](https://github.com/your-username/cinevault)**
+**[🚀 Get Started](#-quick-start)** • **[🌐 Live Demo](https://cinevault-beta.vercel.app/)** • **[🖼️ View Screenshots](#️-screenshots)** • **[🐛 Report Issues](https://github.com/your-username/cinevault/issues)** • **[⭐ Star on GitHub](https://github.com/your-username/cinevault)**
 
 ---
 
 ### 💡 *"Every great film deserves to be discovered"*
 
 **Built with ❤️ by movie enthusiasts, for movie enthusiasts**
+
+🌐 **Try it now:** [https://cinevault-beta.vercel.app/](https://cinevault-beta.vercel.app/)
 
 [![GitHub stars](https://img.shields.io/github/stars/your-username/cinevault?style=social)](https://github.com/your-username/cinevault/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/your-username/cinevault?style=social)](https://github.com/your-username/cinevault/network/members)
